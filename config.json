@@ -1,0 +1,6 @@
+{
+    "log_level": "INFO",
+    "pbkdf2_iterations": 390000,
+    "rsa_key_size": 2048,
+    "output_dir": "."
+}
